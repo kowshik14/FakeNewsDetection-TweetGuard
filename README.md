@@ -1,6 +1,6 @@
 # TweetGuard: Combining Transformer and Bi-LSTM Architectures for Fake News Detection in Large-Scale Tweets
 
-[![DOI](https://img.shields.io/badge/DOI-10.11648/j.ijdsa.20251102.12-blue.svg)](https://www.sciencepg.com/article/10.11648/j.ijdsa.20251102.12)
+[![DOI](https://img.shields.io/badge/DOI-10.11648/j.ijdsa.20251102.12-blue.svg)](https://doi.org/10.11648/j.ijdsa.20251102.12)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
     
